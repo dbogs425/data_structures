@@ -195,6 +195,7 @@ def completeTasks(record):
         print "\n--------PostOrder--------"
         root.printTreePostOrder()
         #STEP 3: PRINT THE NUMBER OF NODES IN THE TREE
+        print "\n--------Size--------"
         print size(root)
         #STEP 4: PRINT THE NUMBER OF CHILDREN EACH NODE HAS -- Done inorder
         count = 0
