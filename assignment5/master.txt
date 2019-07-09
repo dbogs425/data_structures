@@ -1,0 +1,49 @@
+Jones 3
+Bob 2
+Dan 0
+Brian 1
+Richard 0
+Jake 1
+Michael 1
+Bill 0
+Deville 0
+
+Justin 2
+James 1
+Pete 2
+Josh 0
+Brock 0
+Langston 0
+
+Stu 4
+Luke 2
+Bill 1
+Dave 1
+Mark 2
+John 1
+Ken 0
+Mike 0
+Nate 0
+Rick 0
+Rocko 0
+Bernard 0
+
+Jake 3
+Henry 1
+Don 1
+Kyle 1
+Stu 2
+Pete 1
+Rick 0
+Dan 0
+Dave 0
+Stenson 0
+Grayson 0
+
+Matt 2
+Sean 1
+Cooper 3
+Jack 0
+Don 0
+Bryan 0
+Kyle 0
